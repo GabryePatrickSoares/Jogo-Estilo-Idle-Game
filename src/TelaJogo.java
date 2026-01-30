@@ -68,7 +68,7 @@ public class TelaJogo extends JFrame {
 
     // -------------------- UI --------------------
     private void initComponents() {
-        setTitle("Energy Tycoon ");
+        setTitle("Energy Idle");
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setSize(420, 720);
         setLocationRelativeTo(null);
