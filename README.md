@@ -100,16 +100,5 @@ Sistema de Salvamento
 
 --------------------------------------------------
 
-Ideias para Evolução
--------------------
-
-- Produção offline
-- Balanceamento automático
-- Sons e efeitos
-- Sistema de conquistas
-- Tela de estatísticas
-- Suporte a múltiplos idiomas
-
-
 Desenvolvido por: Gabryel P. Soares
 Projeto para estudos e prototipagem de jogos Idle em Java.
